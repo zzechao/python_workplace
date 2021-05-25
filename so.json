@@ -1,0 +1,523 @@
+[{
+	"arch": ["arm64-v8a", "armeabi-v7a", "armeabi", "x86"],
+	"lib": "libA3AEECD8.so",
+	"has_x86": true,
+	"artifact_id": "mdid",
+	"has_armeabi-v7a": true,
+	"group_id": "msa.miit",
+	"version": "1.0.10",
+	"admin": "曾少燚:zengshaoyi:zengshaoyi@yy.com,吴旺春:wuwangchun:wuwangchun@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a"],
+	"lib": "libyylog.so",
+	"has_x86": false,
+	"artifact_id": "klog",
+	"has_armeabi-v7a": true,
+	"group_id": "tv.athena",
+	"version": "2.2.14",
+	"admin": "石从军:shicongjun:shicongjun@yy.com,张俊锋:zhangjunfeng:zhangjunfeng@yy.com,李珉:limin3:limin3@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi", "armeabi-v7a", "x86", "x86_64"],
+	"lib": "libCtaApiLib.so",
+	"has_x86": true,
+	"artifact_id": "jverification",
+	"has_armeabi-v7a": true,
+	"group_id": "cn.jiguang.sdk",
+	"version": "2.6.3",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86", "x86_64"],
+	"lib": "libimagepipeline.so",
+	"has_x86": true,
+	"artifact_id": "imagepipeline",
+	"has_armeabi-v7a": true,
+	"group_id": "com.facebook.fresco",
+	"version": "1.13.0",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86", "x86_64"],
+	"lib": "libnative-filters.so",
+	"has_x86": true,
+	"artifact_id": "nativeimagefilters",
+	"has_armeabi-v7a": true,
+	"group_id": "com.facebook.fresco",
+	"version": "1.13.0",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86", "x86_64"],
+	"lib": "libnative-imagetranscoder.so",
+	"has_x86": true,
+	"artifact_id": "nativeimagetranscoder",
+	"has_armeabi-v7a": true,
+	"group_id": "com.facebook.fresco",
+	"version": "1.13.0",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86", "x86_64"],
+	"lib": "libstatic-webp.so",
+	"has_x86": true,
+	"artifact_id": "webpsupport",
+	"has_armeabi-v7a": true,
+	"group_id": "com.facebook.fresco",
+	"version": "1.13.0",
+	"admin": ""
+}, {
+	"arch": ["armeabi", "armeabi-v7a", "x86"],
+	"lib": "libboost_multidex.so",
+	"has_x86": true,
+	"artifact_id": "boost_multidex",
+	"has_armeabi-v7a": true,
+	"group_id": "com.bytedance.boost_multidex",
+	"version": "1.0.1",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi", "armeabi-v7a", "x86"],
+	"lib": "libcrypto.1.1.so",
+	"has_x86": true,
+	"artifact_id": "openssl-dynamic",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.openssl",
+	"version": "1.1.175",
+	"admin": "刘蓓蕾:liubeilei:liubeilei@yy.com,余素莲:yusulian:yusulian@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi", "armeabi-v7a", "x86"],
+	"lib": "libssl.1.1.so",
+	"has_x86": true,
+	"artifact_id": "openssl-dynamic",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.openssl",
+	"version": "1.1.175",
+	"admin": "刘蓓蕾:liubeilei:liubeilei@yy.com,余素莲:yusulian:yusulian@yy.com"
+}, {
+	"arch": ["x86", "arm64-v8a", "armeabi-v7a"],
+	"lib": "libffmpeg-neon.so",
+	"has_x86": true,
+	"artifact_id": "ffmpeg-neon",
+	"has_armeabi-v7a": true,
+	"group_id": "org.ffmpeg.algorithmcenter",
+	"version": "2.9.4",
+	"admin": "朱经腾:zhujingteng:zhujingteng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi", "armeabi-v7a", "mips", "mips64", "x86", "x86_64"],
+	"lib": "libjcore242.so",
+	"has_x86": true,
+	"artifact_id": "jcore",
+	"has_armeabi-v7a": true,
+	"group_id": "cn.jiguang.sdk",
+	"version": "2.4.2",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a"],
+	"lib": "liborangefilterjni.so",
+	"has_x86": false,
+	"artifact_id": "orangefilter_android",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.orangefilter",
+	"version": "4.8.0",
+	"admin": "宁华龙:ninghualong:ninghualong@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a"],
+	"lib": "libc++_shared.so",
+	"has_x86": false,
+	"artifact_id": "orangefilter_android",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.orangefilter",
+	"version": "4.8.0",
+	"admin": "宁华龙:ninghualong:ninghualong@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a"],
+	"lib": "libvenusjni.so",
+	"has_x86": false,
+	"artifact_id": "venus_android",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.venus",
+	"version": "1.8.0.9.3",
+	"admin": "冯武:fengwu:fengwu@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libyydecvp8-extra.a",
+	"has_x86": true,
+	"artifact_id": "yydecvp8",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "1.0.3",
+	"admin": "朱经腾:zhujingteng:zhujingteng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libyydecvp8.a",
+	"has_x86": true,
+	"artifact_id": "yydecvp8",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "1.0.3",
+	"admin": "朱经腾:zhujingteng:zhujingteng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "x86", "armeabi-v7a"],
+	"lib": "liblibyuv-extra.a",
+	"has_x86": true,
+	"artifact_id": "libyuv",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "1.0.3",
+	"admin": "朱经腾:zhujingteng:zhujingteng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "x86", "armeabi-v7a"],
+	"lib": "libyuv.a",
+	"has_x86": true,
+	"artifact_id": "libyuv",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "1.0.3",
+	"admin": "朱经腾:zhujingteng:zhujingteng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "x86", "armeabi-v7a"],
+	"lib": "libyydec265.so",
+	"has_x86": true,
+	"artifact_id": "yydec265",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "2.9.4",
+	"admin": "朱经腾:zhujingteng:zhujingteng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libyyservicesdk.so",
+	"has_x86": true,
+	"artifact_id": "yyservicesdk",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.platform",
+	"version": "3.4.3",
+	"admin": "胡涛:hutao:hutao@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libc++_shared.so",
+	"has_x86": true,
+	"artifact_id": "yyservicesdk",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.platform",
+	"version": "3.4.3",
+	"admin": "胡涛:hutao:hutao@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a"],
+	"lib": "libtnet-3.1.14.so",
+	"has_x86": false,
+	"artifact_id": "upush",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.upush",
+	"version": "6.0.5",
+	"admin": "张俊锋:zhangjunfeng:zhangjunfeng@yy.com,关羽丰:guanyufeng:guanyufeng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a"],
+	"lib": "libcocklogic-1.1.3.so",
+	"has_x86": false,
+	"artifact_id": "upush",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.upush",
+	"version": "6.0.5",
+	"admin": "张俊锋:zhangjunfeng:zhangjunfeng@yy.com,关羽丰:guanyufeng:guanyufeng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi", "armeabi-v7a"],
+	"lib": "libweconvert.so",
+	"has_x86": false,
+	"artifact_id": "WbCloudFaceLiveSdk",
+	"has_armeabi-v7a": true,
+	"group_id": "com.webank",
+	"version": "v3.3.0-604a4e21",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi", "armeabi-v7a"],
+	"lib": "libYTNextCV.so",
+	"has_x86": false,
+	"artifact_id": "WbCloudFaceLiveSdk",
+	"has_armeabi-v7a": true,
+	"group_id": "com.webank",
+	"version": "v3.3.0-604a4e21",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi", "armeabi-v7a"],
+	"lib": "libwbyuv-decoder.so",
+	"has_x86": false,
+	"artifact_id": "WbCloudFaceLiveSdk",
+	"has_armeabi-v7a": true,
+	"group_id": "com.webank",
+	"version": "v3.3.0-604a4e21",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi", "armeabi-v7a"],
+	"lib": "libYTFaceReflect.so",
+	"has_x86": false,
+	"artifact_id": "WbCloudFaceLiveSdk",
+	"has_armeabi-v7a": true,
+	"group_id": "com.webank",
+	"version": "v3.3.0-604a4e21",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi", "armeabi-v7a"],
+	"lib": "libweyuv.so",
+	"has_x86": false,
+	"artifact_id": "WbCloudFaceLiveSdk",
+	"has_armeabi-v7a": true,
+	"group_id": "com.webank",
+	"version": "v3.3.0-604a4e21",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi", "armeabi-v7a"],
+	"lib": "libwb_emulator_check.so",
+	"has_x86": false,
+	"artifact_id": "WbCloudFaceLiveSdk",
+	"has_armeabi-v7a": true,
+	"group_id": "com.webank",
+	"version": "v3.3.0-604a4e21",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi", "armeabi-v7a"],
+	"lib": "libBugly-webank.so",
+	"has_x86": false,
+	"artifact_id": "WbCloudNormal",
+	"has_armeabi-v7a": true,
+	"group_id": "com.webank",
+	"version": "v4.1.0-fea58c5",
+	"admin": ""
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libandroiditna.so",
+	"has_x86": true,
+	"artifact_id": "androiditna",
+	"has_armeabi-v7a": true,
+	"group_id": "com.duowan.android.yyantilib",
+	"version": "1.6.24",
+	"admin": "卢雄涛:luxiongtao:luxiongtao@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libc++_shared.so",
+	"has_x86": true,
+	"artifact_id": "androiditna",
+	"has_armeabi-v7a": true,
+	"group_id": "com.duowan.android.yyantilib",
+	"version": "1.6.24",
+	"admin": "卢雄涛:luxiongtao:luxiongtao@yy.com"
+}, {
+	"arch": ["arm64-v8a", "x86", "armeabi-v7a"],
+	"lib": "libaudiodsp.a",
+	"has_x86": true,
+	"artifact_id": "audiodsp-static",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "1.3.3",
+	"admin": "胡一峰:huyifeng:huyifeng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "x86", "armeabi-v7a"],
+	"lib": "libmp3.a",
+	"has_x86": true,
+	"artifact_id": "audiocodec-static",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "10.2.1",
+	"admin": "胡一峰:huyifeng:huyifeng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "x86", "armeabi-v7a"],
+	"lib": "libopus.a",
+	"has_x86": true,
+	"artifact_id": "audiocodec-static",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "10.2.1",
+	"admin": "胡一峰:huyifeng:huyifeng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "x86", "armeabi-v7a"],
+	"lib": "libsilk.a",
+	"has_x86": true,
+	"artifact_id": "audiocodec-static",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "10.2.1",
+	"admin": "胡一峰:huyifeng:huyifeng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "x86", "armeabi-v7a"],
+	"lib": "libfdkaac.a",
+	"has_x86": true,
+	"artifact_id": "audiocodec-static",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "10.2.1",
+	"admin": "胡一峰:huyifeng:huyifeng@yy.com"
+}, {
+	"arch": ["armeabi-v7a"],
+	"lib": "libsilkneon.a",
+	"has_x86": false,
+	"artifact_id": "audiocodec-static",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "10.2.1",
+	"admin": "胡一峰:huyifeng:huyifeng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "x86", "armeabi-v7a"],
+	"lib": "libaudiocodecstatic.a",
+	"has_x86": true,
+	"artifact_id": "audiocodec-static",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "10.2.1",
+	"admin": "胡一峰:huyifeng:huyifeng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libyyvideoplayer.a",
+	"has_x86": true,
+	"artifact_id": "yyvideoplayer-full",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "200.3.1.0",
+	"admin": "朱经腾:zhujingteng:zhujingteng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libgiflib.so",
+	"has_x86": true,
+	"artifact_id": "glidegif",
+	"has_armeabi-v7a": true,
+	"group_id": "com.qingyu",
+	"version": "1.0.1",
+	"admin": "卢思泳:lusiyong:lusiyong@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libgifkit.so",
+	"has_x86": true,
+	"artifact_id": "glidegif",
+	"has_armeabi-v7a": true,
+	"group_id": "com.qingyu",
+	"version": "1.0.1",
+	"admin": "卢思泳:lusiyong:lusiyong@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libDeviceIdentifier.so",
+	"has_x86": true,
+	"artifact_id": "deviceidentifier",
+	"has_armeabi-v7a": true,
+	"group_id": "com.duowan.android.DeviceIdentifier",
+	"version": "100.0.12",
+	"admin": "陈开才:chenkaicai:chenkaicai@yy.com"
+}, {
+	"arch": ["x86"],
+	"lib": "libc++_shared.so",
+	"has_x86": true,
+	"artifact_id": "deviceidentifier",
+	"has_armeabi-v7a": false,
+	"group_id": "com.duowan.android.DeviceIdentifier",
+	"version": "100.0.12",
+	"admin": "陈开才:chenkaicai:chenkaicai@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libudbauth-shared.so",
+	"has_x86": true,
+	"artifact_id": "udbauth-sdk",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.udbauth",
+	"version": "2.9.14.67",
+	"admin": "黄毅照:huangyizhao:huangyizhao@yy.com,郑瑞琳:zhengruilin:zhengruilin@yy.com"
+}, {
+	"arch": ["armeabi-v7a", "x86", "arm64-v8a"],
+	"lib": "libyyvideosdk.a",
+	"has_x86": true,
+	"artifact_id": "yyvideolib-full",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "200.3.1.2",
+	"admin": "朱经腾:zhujingteng:zhujingteng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libtransvod.so",
+	"has_x86": true,
+	"artifact_id": "transvod",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.transvod",
+	"version": "10.12.132.aar",
+	"admin": "唐青原:tangqingyuan:tangqingyuan@yy.com,吴顺:wushun:wushun@yy.com"
+}, {
+	"arch": ["arm64-v8a", "x86", "armeabi-v7a"],
+	"lib": "libaudioenginestatic.a",
+	"has_x86": true,
+	"artifact_id": "audioengine-static",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "10.17.2",
+	"admin": "胡一峰:huyifeng:huyifeng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "x86", "armeabi-v7a"],
+	"lib": "libaudioenginejni.a",
+	"has_x86": true,
+	"artifact_id": "audioengine-static",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.medialibrary",
+	"version": "10.17.2",
+	"admin": "胡一峰:huyifeng:huyifeng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libyycrashreport.so",
+	"has_x86": true,
+	"artifact_id": "crashreport",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.sdk.crashreport",
+	"version": "2.3.32",
+	"admin": "李珉:limin3:limin3@yy.com,钟永生:zhongyongsheng:zhongyongsheng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libnativeanr.so",
+	"has_x86": true,
+	"artifact_id": "caton",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.sdk.crashreport",
+	"version": "2.3.32",
+	"admin": "李珉:limin3:limin3@yy.com,钟永生:zhongyongsheng:zhongyongsheng@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libgnustl_shared.so",
+	"has_x86": true,
+	"artifact_id": "protocomm",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.yysignalsdk",
+	"version": "1.15.13",
+	"admin": "陈开才:chenkaicai:chenkaicai@yy.com,胡涛:hutao:hutao@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libprotocomm.so",
+	"has_x86": true,
+	"artifact_id": "protocomm",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.yysignalsdk",
+	"version": "1.15.13",
+	"admin": "陈开才:chenkaicai:chenkaicai@yy.com,胡涛:hutao:hutao@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libsignalsdk.so",
+	"has_x86": true,
+	"artifact_id": "signalsdk",
+	"has_armeabi-v7a": true,
+	"group_id": "com.yy.android.yysignalsdk",
+	"version": "1.15.13",
+	"admin": "陈开才:chenkaicai:chenkaicai@yy.com,胡涛:hutao:hutao@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libhydra.so",
+	"has_x86": true,
+	"artifact_id": "hydra",
+	"has_armeabi-v7a": true,
+	"group_id": "com.hydra",
+	"version": "1.1.8",
+	"admin": "陈刚:chengang2:chengang2@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libthunder.so",
+	"has_x86": true,
+	"artifact_id": "thunderbolt-fullvideo",
+	"has_armeabi-v7a": true,
+	"group_id": "com.rtc.thunder",
+	"version": "3.1.4",
+	"admin": "熊雄:xiongxiong:xiongxiong@yy.com"
+}, {
+	"arch": ["arm64-v8a", "armeabi-v7a", "x86"],
+	"lib": "libc++_shared.so",
+	"has_x86": true,
+	"artifact_id": "thunderbolt-fullvideo",
+	"has_armeabi-v7a": true,
+	"group_id": "com.rtc.thunder",
+	"version": "3.1.4",
+	"admin": "熊雄:xiongxiong:xiongxiong@yy.com"
+}]
